@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nima Azizi</h1>
 <h3 align="center">a Python programmer and website designer, I love the world of artificial intelligence and technology. It has been about three years since I started programming Python and the Django framework. My interest in this language and framework has caused me to study and practice every day, the result of which is the completion of several projects, the links and specifications of which are in the file related to my resume.</h3>
 
-<img src="https://nimaazizi.ir/wp-content/uploads/2023/03/photo58393828955239061682.jpg"  width="200" height="150">
-
-
 
 - 🔭 I’m currently working on **Django Programming**
 
