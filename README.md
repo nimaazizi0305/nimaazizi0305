@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Django Programming**
 
-- 🌱 I’m currently learning **Django ana Machine learning**
+- 🌱 I’m currently learning **Django and Machine learning**
 
 - 👨‍💻 All of my projects are available at [nimaazizi.ir](nimaazizi.ir)
 
