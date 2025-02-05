@@ -1,4 +1,6 @@
 # 💫 About Me:
+<h2 align="center">Hi 👋, I'm Nima Azizi</h2>
+<h4 align="center">a Master’s student in Artificial Intelligence at the University of Tabriz, specializing in developing solutions based on machine learning and deep learning. I am skilled in implementing neural network models such as MLP, CNN, and LSTM using TensorFlow and Keras, and I have successful experience in designing intelligent systems to diagnose diseases such as thyroid and breast cancer with an accuracy of over 89%. In addition to my university education, I have completed prestigious courses in machine learning and web development from Stanford University and the University of Michigan, and I have always strived to combine theoretical knowledge with practical skills. I am always looking for opportunities to collaborate on innovative projects that leverage advanced technologies to create positive change.</h4>
 🔭 I’m currently working on Mchine learning and Deep learning<br><br>🌱 I’m currently learning Django and Machine learning<br><br>👨‍💻 All of my projects are available at nimaazizi.ir<br><br>📫 How to reach me nima.azizi2022@gmail.com<br><br>📄 Know about my experiences nimaazizi.ir<br>
 
 
