@@ -1,8 +1,8 @@
 <h2 align="center">Hi 👋, I'm Nima Azizi</h2>
-<h4 align="center">a Python programmer and website designer, I love the world of artificial intelligence and technology. It has been about three years since I started programming Python and the Django framework. My interest in this language and framework has caused me to study and practice every day, the result of which is the completion of several projects, the links and specifications of which are in the file related to my resume.</h4>
+<h4 align="center">a Master’s student in Artificial Intelligence at the University of Tabriz, specializing in developing solutions based on machine learning and deep learning. I am skilled in implementing neural network models such as MLP, CNN, and LSTM using TensorFlow and Keras, and I have successful experience in designing intelligent systems to diagnose diseases such as thyroid and breast cancer with an accuracy of over 89%. In addition to my university education, I have completed prestigious courses in machine learning and web development from Stanford University and the University of Michigan, and I have always strived to combine theoretical knowledge with practical skills. I am always looking for opportunities to collaborate on innovative projects that leverage advanced technologies to create positive change.</h4>
 
 
-- 🔭 I’m currently working on **Django Programming**
+- 🔭 I’m currently working on **Mchine learning and Deep learning**
 
 - 🌱 I’m currently learning **Django and Machine learning**
 
